@@ -24,7 +24,9 @@ android {
         }
     }
 
-    buildTypes {
+
+
+        buildTypes {
         release {
             externalNativeBuild {
                 cmake {
